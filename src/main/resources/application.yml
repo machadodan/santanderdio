@@ -4,9 +4,9 @@ spring.jpa.show-sql: true
 spring.jpa.generate-ddl: true
 spring.jpa.hibernate.ddl.auto: true
 spring.database.driverClassName: org.postgresql.Driver
-spring.datasource.url: jdbc:postgresql://localhost:5432/santanderdio
-spring.datasource.username: postgres
-spring.datasource.password: 123456
+spring.datasource.url: jdbc:postgresql://usbyszmxzhepvu:6bf20976ef0f7b2e1ab6cc5287254ed61e0771a2dd9610bbca7a04494ea6aafa@ec2-52-86-25-51.compute-1.amazonaws.com:5432/dbdg75cctlg8jg
+spring.datasource.username: usbyszmxzhepvu
+spring.datasource.password: 6bf20976ef0f7b2e1ab6cc5287254ed61e0771a2dd9610bbca7a04494ea6aafa
 server.port: 8080
 servlet.context-path: /santanderdio
 
