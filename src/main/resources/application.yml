@@ -1,0 +1,14 @@
+spring.jpa.database: POSTGRESQL
+spring.datasource.platform: postgres
+spring.jpa.show-sql: true
+spring.jpa.generate-ddl: true
+spring.jpa.hibernate.ddl.auto: true
+spring.database.driverClassName: org.postgresql.Driver
+spring.datasource.url: jdbc:postgresql://localhost:5432/santanderdio
+spring.datasource.username: postgres
+spring.datasource.password: 123456
+server.port: 8080
+servlet.context-path: /santanderdio
+
+application:
+    description: Projeto criado para o bootcamp DIO - Santander / Backend
