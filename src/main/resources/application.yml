@@ -11,4 +11,4 @@ server.port: 8080
 servlet.context-path: /santanderdio
 
 application:
-    description: Projeto criado para o bootcamp DIO - Santander / Backend
+    description: Projeto criado para o bootcamp SantanterDio/Backend - Daniel Machado
